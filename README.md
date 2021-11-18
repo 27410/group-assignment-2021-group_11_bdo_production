@@ -3,7 +3,9 @@
 # 27410 - Group assignment - Group 11 - 1,4-Butanediol (BDO) Production
 
 ## Project summary (<300 words)
-Describe the overall aim of your project and what you have achieved.
+
+The aim of this project is to assess the production of 1,4 – Butanediol (BDO) through a metabolic engineered *E. coli* strain and use computational methods to optimize the model and enhance the production. In order to achieve optimal production of BDO, two different pathways were introduced separately in the initial model and were later examined. First pathway includes the synthesis of BDO from α-ketoglutarate (α-KG), while in the second one BDO is produced by the central metabolite succinyl-CoA (Suc-D). Opt-Gene and FSEOF analysis were implemented in order to optimize the models. Further than that, both models were analyzed for different substrates, such as ..... Knock-outs, that were identified through literature research, were manually introduced, but had no substantial impact on growth or production rates. Co-factor swap analysis showed....
+
 
 ## Project overview
 
