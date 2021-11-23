@@ -16,6 +16,6 @@ The aim of this project is to assess the production of 1,4 – Butanediol (BDO) 
   2. Model.ipynd: Formation of two models using iML1515 
   3. Yields.ipynb: Yield calculation for the two models 
   4. Medium.ipynb: Analysis of different substrates  
-  5. Mutations.ipynb: Manual gene knock-outs 
+  5. PPP, targeted gene knock outs and optimization algorithms.ipynb:PPP analyses, manual gene knock-outs, OptGene and OptKnock
   6. Co_Factor_Swap.ipynb: Co-factor swapping 
 
