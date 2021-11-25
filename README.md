@@ -14,8 +14,7 @@ The aim of this project is to assess the production of 1,4 – Butanediol (BDO) 
 - Folder <b>Analysis</b> hosts all the code used for analysis of our GSM. In more detail: 
   1. ExistingAssess.ipynb: Memote analysis of three existing models (iML1515, iJO1366,iAF1260)
   2. Model.ipynd: Formation of two models using iML1515 
-  3. Yields.ipynb: Yield calculation for the two models 
-  4. Medium.ipynb: Analysis of different substrates  
-  5. PPP, targeted gene knock outs and optimization algorithms.ipynb:PPP analyses, manual gene knock-outs, OptGene and OptKnock
-  6. Co_Factor_Swap.ipynb: Co-factor swapping 
+  3. Medium.ipynb: Analysis of different substrates  
+  4. PPP, targeted gene knock outs and optimization algorithms.ipynb:PPP analyses, manual gene knock-outs, OptGene and OptKnock
+  5. Co_Factor_Swap.ipynb: Co-factor swapping 
 
